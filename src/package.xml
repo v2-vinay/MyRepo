@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Volunteer_Dashboards</members>
+		<name>Dashboard</name>
+	</types>
+	<types>
+		<members>Volunteer_Reports</members>
+		<members>Volunteer_Reports/My_Shifts_Pending_Approval</members>
+		<members>Volunteer_Reports/My_Top_Volunteer_Organizations</members>
+		<members>Volunteer_Reports/My_Upcoming_Shifts</members>
+		<members>Volunteer_Reports/Top_Volunteer_Organizations</members>
+		<members>Volunteer_Reports/Top_Volunteers</members>
+		<name>Report</name>
+	</types>
+	<types>
+		<members>MyClass</members>
+		<name>ApexClass</name>
+	</types>
+	<version>43.0</version>
+</Package>
